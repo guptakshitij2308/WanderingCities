@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Agra",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T10:46:22.266Z",
+      "notes": "gfdfgfg",
+      "position": {
+        "lat": "27.19928032903771",
+        "lng": "78.09082031250001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Lucknow",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-10T10:51:06.580Z",
+      "notes": "about about about kshitij kshitijkshitj kshitij kshitij kshitij kshitij ksi",
+      "position": {
+        "lat": "26.789056670724655",
+        "lng": "80.92529296875"
+      },
+      "id": 98443201
+    }
+  ]
+}
