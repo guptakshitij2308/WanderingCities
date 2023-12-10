@@ -141,10 +141,10 @@ function CitiesProvider({ children }) {
       });
 
       // setCitites(cities.filter((city) => city.id !== id));
-      dispatch({ type: "city/deleted" });
+      dispatch({ type: "city/deleted", payload: id });
     } catch (err) {
       // alert("There was an error deleting the city.");
-      dispatch({ type: "rejected", payload: id });
+      dispatch({ type: "rejected" });
     }
     // } finally {
     //   setIsLoading(false);
